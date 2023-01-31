@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "void-domains"
+  },
+  "targets": {
+    "void-domains": {
+      "hosting": {
+        "movies": [
+          "moviesvoid"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
